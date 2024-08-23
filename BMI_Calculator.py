@@ -8,7 +8,7 @@ weight_as_int = int(weight)     # whole number
 
 BMI= weight_as_int/height_as_float ** 2
 
-# or using multiplication or PEMDAS
+# or using multiplication or PEMDAS-LR
 
 BMI= weight_as_int/ (height_as_float * height_as_float)
 
